@@ -18,7 +18,7 @@ class AboutMeScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   CircleAvatar(
-                    backgroundImage: AssetImage('lib/assets/justme.jpeg'),
+                    backgroundImage: AssetImage('lib/assets/justme.png'),
                     radius: 70,
                   ),
                   SizedBox(height: 20),
